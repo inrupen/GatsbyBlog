@@ -18,3 +18,6 @@ Run a production build into `./public`. The result is ready to be put on any sta
 
 ### `npm run serve`
 
+## Demo deployed to:
+
+[Blog Demo](https://loving-booth-53444c.netlify.app)
