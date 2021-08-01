@@ -1,4 +1,4 @@
-# Contentful Gatsby Starter Blog
+# Contentful Gatsby Blog
 
 A [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com).
 
@@ -18,6 +18,8 @@ Run a production build into `./public`. The result is ready to be put on any sta
 
 ### `npm run serve`
 
-## Demo deployed to:
+Serve a production public folder locally `./public`.
+
+## Demo deployed to
 
 [Blog Demo](https://loving-booth-53444c.netlify.app)
